@@ -39,7 +39,7 @@ def _icon_data_url(filename):
         return None
 
 
-VERSION          = "1.0.0"
+VERSION          = "1.0.3"
 UPDATE_CHECK_URL = "https://raw.githubusercontent.com/kbnspacecmd/browser/master/version.json"
 
 DATA_DIR = os.path.join(os.path.expanduser("~"), ".externo")
