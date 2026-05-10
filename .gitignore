@@ -1,0 +1,10 @@
+dist/
+build/
+installer_output/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build.log
+*.zip
+*.exe
