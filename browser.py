@@ -2192,6 +2192,11 @@ class ExternoBrowser(QMainWindow):
         v.addWidget(QLabel("Fast. Private. Yours."),
                     alignment=Qt.AlignmentFlag.AlignHCenter)
 
+        made_by = QLabel("Made by Space")
+        made_by.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        made_by.setStyleSheet(f"color: {T('dim')}; font-size: 11px;")
+        v.addWidget(made_by)
+
         ok = QPushButton("Close")
         ok.setStyleSheet(f"""
             QPushButton {{
