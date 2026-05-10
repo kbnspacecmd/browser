@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
-  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.10/Externo.Browser.zip",
-  "notes": "Fix: update now correctly installs and browser reopens; fix: no more infinite update loop after updating"
+  "version": "1.0.11",
+  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.11/Externo.Browser.zip",
+  "notes": "Fix: Update Now button now correctly installs and browser reopens every time"
 }
