@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.6/Externo.Browser.zip",
-  "notes": "Fixed auto-updater: shows download progress, no longer freezes on Update Now"
+  "version": "1.0.7",
+  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.7/Externo.Browser.zip",
+  "notes": "About dialog now shows the correct version number"
 }
