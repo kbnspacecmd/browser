@@ -40,7 +40,7 @@ def _icon_data_url(filename):
 
 
 VERSION          = "1.0.0"
-UPDATE_CHECK_URL = "https://raw.githubusercontent.com/kbnspacecmd/browser/main/version.json"
+UPDATE_CHECK_URL = "https://raw.githubusercontent.com/kbnspacecmd/browser/master/version.json"
 
 DATA_DIR = os.path.join(os.path.expanduser("~"), ".externo")
 os.makedirs(DATA_DIR, exist_ok=True)
