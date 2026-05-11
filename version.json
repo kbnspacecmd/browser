@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
-  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.12/Externo.Browser.zip",
-  "notes": "Persistent sessions: stay logged in to YouTube, Google, and all websites after closing the browser"
+  "version": "1.0.13",
+  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.13/Externo.Browser.zip",
+  "notes": "Native window: Aero Snap (drag to top/sides), resize from edges, drop shadow, Windows 11 rounded corners"
 }
