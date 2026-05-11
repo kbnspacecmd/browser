@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
-  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.11/Externo.Browser.zip",
-  "notes": "Fix: Update Now button now correctly installs and browser reopens every time"
+  "version": "1.0.12",
+  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.12/Externo.Browser.zip",
+  "notes": "Persistent sessions: stay logged in to YouTube, Google, and all websites after closing the browser"
 }
