@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
-  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.14/Externo.Browser.zip",
-  "notes": "Fix: browser opens correctly again; native snap/resize/shadow still included"
+  "version": "1.0.15",
+  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.15/Externo.Browser.zip",
+  "notes": "Fix: browser opens correctly; snap, resize edges, shadow, and rounded corners all working"
 }
