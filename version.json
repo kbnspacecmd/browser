@@ -1,5 +1,5 @@
 {
-  "version": "1.0.18",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v1.0.18/Externo.Browser.zip",
-  "notes": "New: landing page with live clock, bookmark shortcuts, and recent history. New: account system \u2014 create an account to save your bookmarks, history, and custom background per profile."
+  "version": "1.0.19",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v1.0.19/Externo.Browser.zip",
+  "notes": "New: purple theme with new logo, 6 built-in themes (Purple, Blue, Midnight, Crimson, Forest, Ocean), custom accent color picker, full settings (download folder, camera/mic/notifications/location permissions, clear browsing data), page loading bar, tab loading animation, entrance animations throughout."
 }
