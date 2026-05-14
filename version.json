@@ -1,5 +1,5 @@
 {
-  "version": "1.0.16",
-  "download_url": "https://github.com/kbnspacecmd/browser/releases/download/v1.0.16/Externo.Browser.zip",
-  "notes": "Fix: update download no longer fails with 404; improved download reliability"
+  "version": "1.0.17",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v1.0.17/Externo.Browser.zip",
+  "notes": "Complete rewrite in Electron (Chromium engine) \u2014 no Python required. Faster, fully native feel, persistent login sessions, Aero Snap support."
 }
