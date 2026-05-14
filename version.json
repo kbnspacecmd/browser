@@ -1,5 +1,5 @@
 {
-  "version": "1.0.20",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v1.0.20/Externo.Browser.zip",
-  "notes": "New: 12-hour clock on landing page, bookmarks bar below navigation bar, + new-tab button now floats after the last open tab."
+  "version": "1.0.21",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v1.0.21/Externo.Browser.zip",
+  "notes": "New: camera and microphone are allowed by default (no permission popups), browser auto-logs in to your account on startup."
 }
