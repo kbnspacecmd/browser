@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v1.0.17/Externo.Browser.zip",
-  "notes": "Complete rewrite in Electron (Chromium engine) \u2014 no Python required. Faster, fully native feel, persistent login sessions, Aero Snap support."
+  "version": "1.0.18",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v1.0.18/Externo.Browser.zip",
+  "notes": "New: landing page with live clock, bookmark shortcuts, and recent history. New: account system \u2014 create an account to save your bookmarks, history, and custom background per profile."
 }
