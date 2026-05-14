@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.1/Externo.Browser.zip",
-  "notes": "Externo Browser 2.0.1 \u2014 version rename."
+  "version": "2.0.2",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.2/Externo.Browser.zip",
+  "notes": "Fix: all permissions (fullscreen, camera, mic, notifications, location, etc.) are now allowed automatically with no prompts."
 }
