@@ -1,5 +1,5 @@
 {
-  "version": "1.0.23",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v1.0.23/Externo.Browser.zip",
-  "notes": "New: updated app icon/logo, custom styled permission popups (no more plain OS dialogs), all popup windows (Canva, etc.) now open as browser tabs instead of separate windows."
+  "version": "1.0.24",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v1.0.24/Externo.Browser.zip",
+  "notes": "Fix: auto-updater now correctly downloads and installs updates (binary streaming bug fixed), browser reopens properly after update."
 }
