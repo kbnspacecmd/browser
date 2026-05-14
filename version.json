@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v1.0.24/Externo.Browser.zip",
-  "notes": "Fix: auto-updater now correctly downloads and installs updates (binary streaming bug fixed), browser reopens properly after update."
+  "version": "2.0.1",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.1/Externo.Browser.zip",
+  "notes": "Externo Browser 2.0.1 \u2014 version rename."
 }
