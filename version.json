@@ -1,5 +1,5 @@
 {
-  "version": "2.0.8",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.8/Externo.Browser.Setup.exe",
-  "notes": "New: Private Tab landing page (Externo Private) with search bar and privacy info. New: Bookmark folders \u2014 organize bookmarks into folders in the bar and panel. Fix: Ad Blocker now actively skips YouTube ads and hides banner ads. Fix: Reader Mode now applies correctly on page load. Fix: Typing Sounds now work on all pages (AudioContext resume fix). Fix: Homepage setting now saves as you type and opens correctly. Fix: Auto-updater now restarts silently (no CMD window) and relaunches the browser after updating."
+  "version": "2.0.9",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.9/Externo.Browser.Setup.exe",
+  "notes": "Fix: Login popups (Google, Microsoft, GitHub, etc.) now auto-close after sign-in and open the destination in the browser \u2014 no more being stuck in a tiny popup window. New: Drag tabs to reorder them \u2014 drag left/right to move tabs, drag group headers to move entire groups. New: Speaker icon on tabs playing audio. Fix: Faster startup \u2014 removed external font request, background loads after first paint. Fix: Mute toggle also hides the audio icon."
 }
