@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.6/Externo.Browser.Setup.exe",
-  "notes": "Fix: Google sign-in, Gmail add account, and other OAuth login popups now open correctly instead of showing a blank tab. Fix: All popup windows (login forms, OAuth flows) now use the correct browser user agent. Fix: Popup windows are brought to the front automatically."
+  "version": "2.0.7",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.7/Externo.Browser.Setup.exe",
+  "notes": "Fix: Gmail Add Account, Google sign-in, and all OAuth/login popups now open as proper popup windows instead of blank tabs. window.opener is now correctly preserved so auth flows complete properly."
 }
