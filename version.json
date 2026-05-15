@@ -1,5 +1,5 @@
 {
-  "version": "2.0.4",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.4/Externo.Browser.zip",
-  "notes": "New: Extensions store (Ad Blocker, Typing Sounds, Dark Mode, Smooth Scroll, Reader Mode). New: Downloads panel in navbar. New: Private/Incognito tabs. New: Layout settings (left sidebar tabs, compact mode). New: Smart bookmark star (one-click add/remove). Fix: Ctrl+click opens links in new tab. Fix: Auto-updater now works correctly for portable exe. More keyboard shortcuts (Ctrl+Shift+T reopen tab, Ctrl+Shift+N incognito, Ctrl+D bookmark, Alt+Left/Right navigate, Ctrl+Tab switch tabs)."
+  "version": "2.0.5",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.5/Externo.Browser.Setup.exe",
+  "notes": "New: Right-click on any tab \u2014 Mute/Unmute, Pin/Unpin, Add to Group, Duplicate, New Tab to Right. New: Tab Groups \u2014 color-code tabs with custom group names. Fix: Auto-updater completely rewritten \u2014 now downloads the exe directly and reliably replaces and relaunches. Fix: Update bat script no longer deletes itself while running."
 }
