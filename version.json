@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.3/Externo.Browser.zip",
-  "notes": "New: Built-in AI chat (ChatGPT) \u2014 no API key needed, just click the robot icon. Fix: Google sign-in and OAuth login popups now open correctly. Fix: Sites that blocked embedded browsers now load properly."
+  "version": "2.0.4",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.4/Externo.Browser.zip",
+  "notes": "New: Extensions store (Ad Blocker, Typing Sounds, Dark Mode, Smooth Scroll, Reader Mode). New: Downloads panel in navbar. New: Private/Incognito tabs. New: Layout settings (left sidebar tabs, compact mode). New: Smart bookmark star (one-click add/remove). Fix: Ctrl+click opens links in new tab. Fix: Auto-updater now works correctly for portable exe. More keyboard shortcuts (Ctrl+Shift+T reopen tab, Ctrl+Shift+N incognito, Ctrl+D bookmark, Alt+Left/Right navigate, Ctrl+Tab switch tabs)."
 }
