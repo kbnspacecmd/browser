@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.2/Externo.Browser.zip",
-  "notes": "Fix: all permissions (fullscreen, camera, mic, notifications, location, etc.) are now allowed automatically with no prompts."
+  "version": "2.0.3",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.3/Externo.Browser.zip",
+  "notes": "New: Built-in AI chat (ChatGPT) \u2014 no API key needed, just click the robot icon. Fix: Google sign-in and OAuth login popups now open correctly. Fix: Sites that blocked embedded browsers now load properly."
 }
