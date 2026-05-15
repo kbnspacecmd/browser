@@ -1,5 +1,5 @@
 {
-  "version": "2.0.7",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.7/Externo.Browser.Setup.exe",
-  "notes": "Fix: Gmail Add Account, Google sign-in, and all OAuth/login popups now open as proper popup windows instead of blank tabs. window.opener is now correctly preserved so auth flows complete properly."
+  "version": "2.0.8",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.8/Externo.Browser.Setup.exe",
+  "notes": "New: Private Tab landing page (Externo Private) with search bar and privacy info. New: Bookmark folders \u2014 organize bookmarks into folders in the bar and panel. Fix: Ad Blocker now actively skips YouTube ads and hides banner ads. Fix: Reader Mode now applies correctly on page load. Fix: Typing Sounds now work on all pages (AudioContext resume fix). Fix: Homepage setting now saves as you type and opens correctly. Fix: Auto-updater now restarts silently (no CMD window) and relaunches the browser after updating."
 }
