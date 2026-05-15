@@ -1,5 +1,5 @@
 {
-  "version": "2.0.10",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.10/Externo.Browser.Setup.exe",
-  "notes": "Fix: Gmail account switching (and similar) now opens the other account in a new Externo tab instead of a popup \u2014 only true OAuth sign-in flows (auth domains or sized dialogs) open as popups."
+  "version": "2.0.11",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.11/Externo.Browser.Setup.exe",
+  "notes": "Fix: Gmail account switching now navigates the current tab to the other account instead of opening a new tab or popup."
 }
