@@ -1,5 +1,5 @@
 {
-  "version": "2.0.12",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.12/Externo.Browser.Setup.exe",
-  "notes": "Fix: Private tabs no longer save browsing history. Fix: CAPTCHA verification now works (removed navigator.webdriver flag). Fix: External links from other apps (e.g. Discord verify links) now open correctly in the browser."
+  "version": "2.0.13",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.13/Externo.Browser.zip",
+  "notes": "Fix: External links from Discord and other apps now open correctly (complete rewrite of default browser URL handling). After installing, go to Settings > Set as Default Browser and click it once to apply the new handler."
 }
