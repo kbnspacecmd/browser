@@ -1,5 +1,5 @@
 {
-  "version": "2.0.15",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.15/Externo.Browser.Setup.exe",
-  "notes": "Improved: Discord Rich Presence now shows the Externo Browser logo and a Website button linking to https://externo.org."
+  "version": "2.0.16",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.16/Externo.Browser.Setup.exe",
+  "notes": "Improved: Discord Rich Presence now shows the current version number (e.g. v2.0.16) automatically \u2014 will always stay up to date on future releases."
 }
