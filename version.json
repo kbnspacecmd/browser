@@ -1,5 +1,5 @@
 {
-  "version": "2.0.27",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.27/Externo.Browser.Setup.exe",
-  "notes": "Updated app icon to new neon purple design."
+  "version": "2.0.28",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.28/Externo.Browser.Setup.exe",
+  "notes": "Fix: Dragging files out of the downloads panel no longer lags the browser."
 }
