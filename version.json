@@ -1,5 +1,5 @@
 {
-  "version": "2.0.19",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.19/Externo.Browser.Setup.exe",
-  "notes": "Fix: Auto-updater now correctly included in the package (was missing in 2.0.18). Silent background updates are now fully working."
+  "version": "2.0.20",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.20/Externo.Browser.Setup.exe",
+  "notes": "New: Replaced AI chat with NANO AI \u2014 a custom AI assistant powered by the Externo team. All previous AI providers removed."
 }
