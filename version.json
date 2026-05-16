@@ -1,5 +1,5 @@
 {
-  "version": "2.0.18",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.18/Externo.Browser.Setup.exe",
-  "notes": "New: Silent auto-updater \u2014 when a new version is released, Externo downloads it in the background, shows a 5-second countdown, then restarts automatically. No manual update steps needed."
+  "version": "2.0.19",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.19/Externo.Browser.Setup.exe",
+  "notes": "Fix: Auto-updater now correctly included in the package (was missing in 2.0.18). Silent background updates are now fully working."
 }
