@@ -1,5 +1,5 @@
 {
-  "version": "2.0.21",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.21/Externo.Browser.Setup.exe",
-  "notes": "Fix: Crash on startup caused by removed AI model selector still having an event listener. NANO AI is now fully working."
+  "version": "2.0.22",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.22/Externo.Browser.Setup.exe",
+  "notes": "Improved NANO AI chat: markdown rendering (bold, code blocks), welcome message, Enter to send. Fixed: auto-login now visually applies on startup."
 }
