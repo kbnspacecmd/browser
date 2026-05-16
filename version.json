@@ -1,5 +1,5 @@
 {
-  "version": "2.0.17",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.17/Externo.Browser.Setup.exe",
-  "notes": "Performance: Browser now launches significantly faster. The UI and first tab open immediately while bookmarks, history, and other data load in the background."
+  "version": "2.0.18",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.18/Externo.Browser.Setup.exe",
+  "notes": "New: Silent auto-updater \u2014 when a new version is released, Externo downloads it in the background, shows a 5-second countdown, then restarts automatically. No manual update steps needed."
 }
