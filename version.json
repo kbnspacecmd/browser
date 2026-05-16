@@ -1,5 +1,5 @@
 {
-  "version": "2.0.13",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.13/Externo.Browser.Setup.exe",
-  "notes": "Fix: External links from Discord and other apps now open correctly (complete rewrite of default browser URL handling). After installing, go to Settings > Set as Default Browser and click it once to apply the new handler."
+  "version": "2.0.14",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.14/Externo.Browser.Setup.exe",
+  "notes": "New: Discord Rich Presence \u2014 shows \"Playing Externo Browser\" on Discord while browsing. Enable it in Settings > Discord. Requires Discord to be running."
 }
