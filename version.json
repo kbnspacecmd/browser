@@ -1,5 +1,5 @@
 {
-  "version": "2.0.24",
-  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.24/Externo.Browser.Setup.exe",
-  "notes": "Release pipeline now auto-pushes updated website files to GitHub on every release."
+  "version": "2.0.25",
+  "download_url": "https://github.com/kbnspacecmd/Externo.Browser/releases/download/v2.0.25/Externo.Browser.Setup.exe",
+  "notes": "Fix: Bookmarks and history now appear immediately on the new tab when logged in \u2014 no need to re-login."
 }
